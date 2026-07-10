@@ -156,7 +156,7 @@ olist-end-to-end-analytics/
 
 ## Author
 
-**Teena Sharma**
+**Dhavika Sharma**
 
 Aspiring Data Analyst | Python | SQL | Power BI
 
